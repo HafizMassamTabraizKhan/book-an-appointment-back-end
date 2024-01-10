@@ -34,7 +34,7 @@
 
 # 🚗Test Drive Zone🚙 <a name="about-project"></a>
 
-This app allows users to schedule test drive appointments for cars. Users can add, delete, and view details of available cars, making it easy to manage appointments for test drives.
+This app is build using React and Rails. It allows users to schedule test drive appointments for cars. Users can add, delete, and view details of available cars, making it easy to manage appointments for test drives.
 
 ## 🛠 Built With <a name="built-with"></a>
 Ruby on Rails
